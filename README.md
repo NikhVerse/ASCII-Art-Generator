@@ -13,5 +13,7 @@ This code is designed for **Google Colab**. You don't need to install anything o
 2.  Press the **Play button** (▶️) on the code cell.
 3.  **Upload an image** when prompted.
 
+**Read my articles on Medium:** [https://medium.com/@sahunikh090](https://medium.com/@sahunikh090/turning-images-into-high-accuracy-ascii-art-with-python-ccec920dd7cb)
+
 
 *Created by [Nikhil Kumar Sahu]*
